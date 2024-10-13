@@ -1,6 +1,7 @@
 # Types and enums
 
 ## Fit
+dheejdjfjf
 
 ```ts
 export enum Fit {
@@ -51,7 +52,8 @@ export enum Direction {
 }
 ```
 
-## RNRiveError
+## RNRiveErrjdjfjgjkr
+or
 
 ```ts
 export type RNRiveError = {
